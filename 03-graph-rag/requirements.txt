@@ -1,0 +1,3 @@
+networkx
+openai
+python-dotenv
